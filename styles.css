@@ -153,7 +153,7 @@ nav ul li a:hover::after {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(41, 47, 54, 0.7), rgba(41, 47, 54, 0.7)), url('./Hero_Dogs.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(41, 47, 54, 0.7), rgba(41, 47, 54, 0.7)), url('./HeroDogs.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     align-items: center;
