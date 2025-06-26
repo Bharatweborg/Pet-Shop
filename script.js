@@ -17,6 +17,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
         if (this.getAttribute('href') === '#') return;
 
+
         const target = document.querySelector(this.getAttribute('href'));
         if (target) {
             window.scrollTo({
